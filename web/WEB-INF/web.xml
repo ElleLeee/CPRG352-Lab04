@@ -16,4 +16,7 @@
     <welwelcome-file-list>
         <welcome-file>note</welcome-file>
     </welwelcome-file-list>
+    <welcome-file-list>
+        <welcome-file>note</welcome-file>
+    </welcome-file-list>
 </web-app>
